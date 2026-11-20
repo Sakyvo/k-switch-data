@@ -39,7 +39,7 @@ K Switch 内置的人工精选模型默认填入表，为 pi 供应商「添加�
 | gpt-6.1             | 1048576       | 128000    | -                                                          | -     |
 | gpt-6.2-astra       | 1048576       | 128000    | -                                                          | -     |
 | gpt-6.2-sol         | 1048576       | 128000    | -                                                          | -     |
-| grok-4.5            | 500000        | 524288    | low=low, medium=medium, high=high, xhigh=high, max=high    | -     |
+| grok-4.5            | 524288        | 524288    | low=low, medium=medium, high=high, xhigh=high, max=high    | -     |
 | grok-4.6            | 524288        | 524288    | low=low, medium=medium, high=high, xhigh=xhigh, max=xhigh  | -     |
 | grok-4.7            | 524288        | 524288    | low=low, medium=medium, high=high, xhigh=xhigh, max=xhigh  | -     |
 | kimi-k3             | -             | -         | low=low, medium=low, high=high, xhigh=max, max=max         | -     |
